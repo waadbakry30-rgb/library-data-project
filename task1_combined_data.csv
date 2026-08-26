@@ -1,0 +1,410 @@
+member_id,first_name,last_name,neighborhood,checkout_id,book_id,checkout_date,return_date,genre,publication_year
+1001,Salma,Ibrahim,Maadi,9025,525,2024-10-24,2024-11-07,Adventure,2015.0
+1002,Fares,Saleh,Maadi,9013,501,2024-02-16,2024-02-29,Adventure,2017.0
+1002,Fares,Saleh,Maadi,9095,507,2024-06-25,2024-07-07,Science,2024.0
+1003,Bassel,Hegazy,Maadi,9051,513,2025-07-22,2025-08-18,Science,2021.0
+1003,Bassel,Hegazy,Maadi,9068,501,2025-11-14,2025-12-03,Adventure,2017.0
+1003,Bassel,Hegazy,Maadi,9074,501,2024-06-19,2024-07-06,Adventure,2017.0
+1003,Bassel,Hegazy,Maadi,9071,503,2024-03-25,2024-04-09,Historical,
+1003,Bassel,Hegazy,Maadi,9103,513,2025-09-04,2025-09-25,Science,2021.0
+1003,Bassel,Hegazy,Maadi,9050,521,2025-08-21,,Science,2024.0
+1003,Bassel,Hegazy,Maadi,9048,519,2024-12-03,2025-01-01,Friendship,2014.0
+1003,Bassel,Hegazy,Maadi,9088,519,2025-09-17,2025-10-03,Friendship,2014.0
+1003,Bassel,Hegazy,Maadi,9018,522,2025-06-12,2025-06-24,Mystery,2016.0
+1005,Youssef,Halim,Maadi,9043,505,2024-01-26,2024-02-04,Historical,2024.0
+1005,Youssef,Halim,Maadi,9066,513,2025-07-15,2025-07-31,Science,2021.0
+1005,Youssef,Halim,Maadi,9029,507,2025-03-07,2025-03-29,Science,2024.0
+1006,Layla,Mansour,Maadi,9058,501,2025-03-18,2025-04-09,Adventure,2017.0
+1007,Sherif,Fouad,Maadi,9072,513,2025-03-05,2025-04-01,Science,2021.0
+1007,Sherif,Fouad,Maadi,9047,507,2024-10-11,2024-10-24,Science,2024.0
+1007,Sherif,Fouad,Maadi,9038,506,2024-07-15,2024-08-12,Friendship,
+1008,Ziad,Saleh,Maadi,9005,513,2025-04-20,2025-04-29,Science,2021.0
+1008,Ziad,Saleh,Maadi,9001,501,2025-08-23,2025-08-28,Adventure,2017.0
+1008,Ziad,Saleh,Maadi,9091,525,2024-06-03,2024-06-12,Adventure,2015.0
+1008,Ziad,Saleh,Maadi,9053,516,2025-07-20,2025-08-08,Nature,2010.0
+1008,Ziad,Saleh,Maadi,9021,501,2025-05-22,2025-05-29,Adventure,2017.0
+1008,Ziad,Saleh,Maadi,9007,507,2025-03-15,2025-03-31,Science,2024.0
+1008,Ziad,Saleh,Maadi,9073,513,2025-02-13,,Science,2021.0
+1008,Ziad,Saleh,Maadi,9067,507,2024-01-05,2024-01-29,Science,2024.0
+1008,Ziad,Saleh,Maadi,9093,507,2025-03-22,2025-04-19,Science,2024.0
+1008,Ziad,Saleh,Maadi,9064,502,2025-06-12,2025-06-21,Adventure,2018.0
+1008,Ziad,Saleh,Maadi,9077,514,2024-07-28,2024-08-12,Science Fiction,2023.0
+1008,Ziad,Saleh,Maadi,9080,501,2024-03-20,2024-04-18,Adventure,2017.0
+1008,Ziad,Saleh,Maadi,9037,509,2024-01-02,2024-01-22,Mystery,2011.0
+1008,Ziad,Saleh,Maadi,9076,529,2025-12-12,2025-12-20,Mystery,
+1008,Ziad,Saleh,Maadi,9078,521,2024-09-21,2024-10-12,Science,2024.0
+1008,Ziad,Saleh,Maadi,9045,520,2024-05-28,,Science Fiction,2009.0
+1008,Ziad,Saleh,Maadi,9079,520,2025-12-27,2026-01-05,Science Fiction,2009.0
+1008,Ziad,Saleh,Maadi,9098,525,2024-12-15,2024-12-31,Adventure,2015.0
+1008,Ziad,Saleh,Maadi,9084,511,2024-06-27,2024-07-22,Historical,2016.0
+1009,Hassan,Saleh,Maadi,9010,513,2025-07-22,2025-08-16,Science,2021.0
+1010,Nour,Nabil,Maadi ,9082,528,2025-11-11,2025-11-18,Nature,2010.0
+1010,Nour,Nabil,Maadi ,9012,501,2025-02-17,,Adventure,2017.0
+1010,Nour,Nabil,Maadi ,9056,519,2025-07-11,2025-07-27,Friendship,2014.0
+1010,Nour,Nabil,Maadi ,9036,515,2024-11-27,2024-12-24,Poetry,2022.0
+1010,Nour,Nabil,Maadi ,9100,513,2025-08-27,2025-09-22,Science,2021.0
+1010,Nour,Nabil,Maadi ,9024,507,2025-01-27,2025-02-09,Science,2024.0
+1010,Nour,Nabil,Maadi ,9008,520,2025-08-11,,Science Fiction,2009.0
+1010,Nour,Nabil,Maadi ,9015,507,2025-09-02,2025-09-14,Science,2024.0
+1010,Nour,Nabil,Maadi ,9049,514,2025-09-08,,Science Fiction,2023.0
+1010,Nour,Nabil,Maadi ,9069,505,2024-06-14,2024-07-10,Historical,2024.0
+1010,Nour,Nabil,Maadi ,9102,502,2024-10-05,,Adventure,2018.0
+1010,Nour,Nabil,Maadi ,9022,507,2025-11-14,2025-12-03,Science,2024.0
+1010,Nour,Nabil,Maadi ,9089,507,2025-06-22,2025-07-22,Science,2024.0
+1010,Nour,Nabil,Maadi ,9062,520,2024-07-28,2024-08-26,Science Fiction,2009.0
+1010,Nour,Nabil,Maadi ,9041,506,2025-02-22,2025-03-19,Friendship,
+1010,Nour,Nabil,Maadi ,9060,527,2024-05-20,2024-05-28,Nature,2017.0
+1010,Nour,Nabil,Maadi ,9042,509,2024-02-28,,Mystery,2011.0
+1010,Nour,Nabil,Maadi ,9014,519,2024-06-28,2024-07-20,Friendship,2014.0
+1011,Menna,Halim,Maadi,9032,501,2024-11-24,2024-12-11,Adventure,2017.0
+1011,Menna,Halim,Maadi,9083,516,2025-10-02,2025-10-09,Nature,2010.0
+1013,Ziad,Fouad,Maadi,9004,519,2025-07-27,2025-08-16,Friendship,2014.0
+1013,Ziad,Fouad,Maadi,9054,510,2024-11-21,,Mystery,2013.0
+1014,Habiba,Nabil,Maadi,9019,513,2024-03-06,2024-03-23,Science,2021.0
+1015,Hamza,Sabry,Maadi,9034,511,2025-10-13,,Historical,2016.0
+1015,Hamza,Sabry,Maadi,9003,501,2024-08-04,2024-08-13,Adventure,2017.0
+1015,Hamza,Sabry,Maadi,9055,525,2025-08-08,2025-08-27,Adventure,2015.0
+1016,Dina,Rashad,Maadi,9020,506,2024-04-15,2024-05-04,Friendship,
+1016,Dina,Rashad,Maadi,9040,529,2025-01-23,2025-02-11,Mystery,
+1016,Dina,Rashad,Maadi,9090,507,2025-02-18,2025-03-04,Science,2024.0
+1016,Dina,Rashad,Maadi,9059,518,2025-06-28,2025-07-27,Adventure,2011.0
+1016,Dina,Rashad,Maadi,9061,505,2025-04-28,2025-05-20,Historical,2024.0
+1016,Dina,Rashad,Maadi,9065,509,2024-12-21,,Mystery,2011.0
+1016,Dina,Rashad,Maadi,9016,527,2024-12-03,2024-12-11,Nature,2017.0
+1017,Adam,Badr,Maadi,9028,507,2025-01-19,2025-01-28,Science,2024.0
+1017,Adam,Badr,Maadi,9081,502,2025-08-25,2025-09-17,Adventure,2018.0
+1018,Ahmed,Shafik,Maadi,9097,501,2025-10-05,2025-10-14,Adventure,2017.0
+1018,Ahmed,Shafik,Maadi,9030,507,2025-03-09,,Science,2024.0
+1018,Ahmed,Shafik,Maadi,9063,515,2024-10-22,,Poetry,2022.0
+1018,Ahmed,Shafik,Maadi,9070,513,2025-01-08,2025-02-01,Science,2021.0
+1018,Ahmed,Shafik,Maadi,9075,510,2024-07-01,,Mystery,2013.0
+1018,Ahmed,Shafik,Maadi,9027,519,2024-11-04,,Friendship,2014.0
+1018,Ahmed,Shafik,Maadi,9017,519,2024-08-06,2024-08-11,Friendship,2014.0
+1018,Ahmed,Shafik,Maadi,9378,501,2024-09-05,2024-09-21,Adventure,2017.0
+1018,Ahmed,Shafik,Maadi,9006,507,2025-06-26,2025-07-01,Science,2024.0
+1018,Ahmed,Shafik,Maadi,9104,507,2024-05-15,,Science,2024.0
+1018,Ahmed,Shafik,Maadi,9099,506,2025-10-10,2025-11-09,Friendship,
+1018,Ahmed,Shafik,Maadi,9086,501,2024-06-20,2024-06-29,Adventure,2017.0
+1018,Ahmed,Shafik,Maadi,9044,503,2024-10-07,,Historical,
+1018,Ahmed,Shafik,Maadi,9023,503,2025-08-04,2025-08-27,Historical,
+1018,Ahmed,Shafik,Maadi,9026,506,2025-04-21,2025-05-04,Friendship,
+1018,Ahmed,Shafik,Maadi,9085,525,2025-08-19,2025-09-18,Adventure,2015.0
+1018,Ahmed,Shafik,Maadi,9039,513,2024-07-21,2024-08-10,Science,2021.0
+1019,Mostafa,Wahba,Maadi,9092,507,2025-03-20,2025-03-27,Science,2024.0
+1019,Mostafa,Wahba,Maadi,9052,501,2024-06-20,2024-06-29,Adventure,2017.0
+1020,Rana,Fouad,Maadi,9031,530,2025-12-28,2026-01-05,Adventure,2012.0
+1020,Rana,Fouad,Maadi,9101,532,2025-05-25,2025-06-15,Friendship,2017.0
+1020,Rana,Fouad,Maadi,9057,519,2025-02-03,,Friendship,2014.0
+1020,Rana,Fouad,Maadi,9033,522,2025-02-26,2025-03-11,Mystery,2016.0
+1020,Rana,Fouad,Maadi,9087,511,2025-12-03,2025-12-13,Historical,2016.0
+1020,Rana,Fouad,Maadi,9035,501,2024-08-01,2024-08-23,Adventure,2017.0
+1020,Rana,Fouad,Maadi,9002,515,2024-12-06,2024-12-11,Poetry,2022.0
+1022,Youssef,Fouad,Maadi,9380,513,2024-04-22,2024-04-28,Science,2021.0
+1022,Youssef,Fouad,Maadi,9094,527,2024-11-22,2024-12-08,Nature,2017.0
+1022,Youssef,Fouad,Maadi,9046,513,2024-02-22,,Science,2021.0
+1022,Youssef,Fouad,Maadi,9009,506,2025-04-28,2025-05-04,Friendship,
+1022,Youssef,Fouad,Maadi,9096,501,2025-02-17,2025-03-17,Adventure,2017.0
+1022,Youssef,Fouad,Maadi,9011,513,2024-03-17,,Science,2021.0
+1023,Hassan,Rashad,Nasr City,9188,507,2025-05-11,2025-06-08,Science,2024.0
+1024,Youssef,Hegazy,Nasr City,9127,506,2025-06-13,,Friendship,
+1024,Youssef,Hegazy,Nasr City,9144,501,2025-11-07,2025-11-25,Adventure,2017.0
+1024,Youssef,Hegazy,Nasr City,9143,518,2025-10-02,,Adventure,2011.0
+1024,Youssef,Hegazy,Nasr City,9124,525,2025-10-14,2025-11-13,Adventure,2015.0
+1024,Youssef,Hegazy,Nasr City,9376,518,2025-10-22,2025-11-04,Adventure,2011.0
+1024,Youssef,Hegazy,Nasr City,9128,501,2025-06-12,2025-06-19,Adventure,2017.0
+1024,Youssef,Hegazy,Nasr City,9194,513,2024-09-17,2024-10-09,Science,2021.0
+1024,Youssef,Hegazy,Nasr City,9119,518,2025-02-26,2025-03-15,Adventure,2011.0
+1024,Youssef,Hegazy,Nasr City,9130,503,2025-09-04,2025-09-17,Historical,
+1024,Youssef,Hegazy,Nasr City,9178,518,2025-08-21,2025-09-04,Adventure,2011.0
+1024,Youssef,Hegazy,Nasr City,9195,507,2025-02-22,2025-03-17,Science,2024.0
+1024,Youssef,Hegazy,Nasr City,9107,505,2024-09-24,2024-10-12,Historical,2024.0
+1024,Youssef,Hegazy,Nasr City,9108,507,2025-02-02,2025-02-27,Science,2024.0
+1024,Youssef,Hegazy,Nasr City,9150,507,2025-10-14,2025-10-24,Science,2024.0
+1024,Youssef,Hegazy,Nasr City,9174,528,2025-12-16,2026-01-07,Nature,2010.0
+1024,Youssef,Hegazy,Nasr City,9116,519,2025-01-10,2025-02-09,Friendship,2014.0
+1026,Nada,Saleh,Nasr City,9184,501,2024-12-15,2025-01-11,Adventure,2017.0
+1026,Nada,Saleh,Nasr City,9117,501,2025-09-13,,Adventure,2017.0
+1026,Nada,Saleh,Nasr City,9185,519,2025-10-22,2025-11-01,Friendship,2014.0
+1027,Mostafa,Fouad,Nasr City,9113,507,2024-06-26,2024-07-08,Science,2024.0
+1027,Mostafa,Fouad,Nasr City,9111,510,2024-09-12,2024-10-03,Mystery,2013.0
+1027,Mostafa,Fouad,Nasr City,9173,532,2025-03-10,2025-04-06,Friendship,2017.0
+1027,Mostafa,Fouad,Nasr City,9148,532,2025-07-05,2025-07-26,Friendship,2017.0
+1027,Mostafa,Fouad,Nasr City,9171,507,2025-05-23,2025-06-19,Science,2024.0
+1027,Mostafa,Fouad,Nasr City,9141,529,2025-02-09,2025-03-03,Mystery,
+1027,Mostafa,Fouad,Nasr City,9123,511,2025-03-23,2025-04-11,Historical,2016.0
+1027,Mostafa,Fouad,Nasr City,9142,516,2024-09-21,2024-10-14,Nature,2010.0
+1027,Mostafa,Fouad,Nasr City,9198,524,2024-10-03,2024-10-19,Historical,2016.0
+1027,Mostafa,Fouad,Nasr City,9192,519,2025-09-26,2025-10-07,Friendship,2014.0
+1027,Mostafa,Fouad,Nasr City,9105,501,2025-03-05,2025-03-25,Adventure,2017.0
+1027,Mostafa,Fouad,Nasr City,9183,532,2025-03-28,2025-04-10,Friendship,2017.0
+1027,Mostafa,Fouad,Nasr City,9179,517,2024-11-19,2024-12-17,Mystery,2015.0
+1027,Mostafa,Fouad,Nasr City,9191,505,2024-08-05,2024-08-29,Historical,2024.0
+1027,Mostafa,Fouad,Nasr City,9175,513,2025-03-04,2025-03-27,Science,2021.0
+1027,Mostafa,Fouad,Nasr City,9121,522,2025-02-24,2025-03-14,Mystery,2016.0
+1027,Mostafa,Fouad,Nasr City,9177,513,2024-01-18,,Science,2021.0
+1027,Mostafa,Fouad,Nasr City,9176,501,2024-11-08,2024-11-26,Adventure,2017.0
+1028,Hassan,Adel,Nasr City,9155,525,2025-07-12,2025-07-18,Adventure,2015.0
+1028,Hassan,Adel,Nasr City,9147,512,2025-10-05,2025-11-01,Adventure,2022.0
+1028,Hassan,Adel,Nasr City,9167,503,2025-12-24,2026-01-02,Historical,
+1030,Reem,Osman,Nasr City,9152,525,2025-01-03,,Adventure,2015.0
+1030,Reem,Osman,Nasr City,9165,519,2025-03-27,2025-04-02,Friendship,2014.0
+1030,Reem,Osman,Nasr City,9162,519,2025-08-27,2025-09-11,Friendship,2014.0
+1030,Reem,Osman,Nasr City,9172,513,2025-05-04,2025-05-26,Science,2021.0
+1030,Reem,Osman,Nasr City,9110,506,2024-05-14,2024-05-30,Friendship,
+1030,Reem,Osman,Nasr City,9169,513,2025-11-25,,Science,2021.0
+1030,Reem,Osman,Nasr City,9197,501,2025-11-26,2025-12-01,Adventure,2017.0
+1030,Reem,Osman,Nasr City,9159,501,2024-12-11,,Adventure,2017.0
+1030,Reem,Osman,Nasr City,9168,513,2025-09-13,2025-09-23,Science,2021.0
+1030,Reem,Osman,Nasr City,9160,501,2024-06-20,2024-07-07,Adventure,2017.0
+1030,Reem,Osman,Nasr City,9118,507,2024-05-12,,Science,2024.0
+1030,Reem,Osman,Nasr City,9154,525,2025-05-18,2025-05-26,Adventure,2015.0
+1030,Reem,Osman,Nasr City,9196,526,2025-01-15,2025-02-02,Science Fiction,2016.0
+1030,Reem,Osman,Nasr City,9190,502,2025-12-04,2025-12-18,Adventure,2018.0
+1030,Reem,Osman,Nasr City,9153,530,2024-10-12,2024-10-26,Adventure,2012.0
+1030,Reem,Osman,Nasr City,9136,532,2024-10-03,2024-10-20,Friendship,2017.0
+1031,Ali,Fahmy,NASR CITY,9112,521,2024-07-28,2024-08-22,Science,2024.0
+1032,Nada,Zaki,Nasr City,9129,513,2025-06-21,2025-06-29,Science,2021.0
+1032,Nada,Zaki,Nasr City,9157,525,2024-03-04,2024-04-03,Adventure,2015.0
+1032,Nada,Zaki,Nasr City,9189,507,2025-12-08,2025-12-16,Science,2024.0
+1032,Nada,Zaki,Nasr City,9149,507,2025-02-09,2025-02-18,Science,2024.0
+1032,Nada,Zaki,Nasr City,9166,519,2024-01-15,2024-01-24,Friendship,2014.0
+1032,Nada,Zaki,Nasr City,9156,503,2025-02-13,2025-03-14,Historical,
+1034,Aya,Wahba,Nasr City,9131,505,2025-12-16,2025-12-25,Historical,2024.0
+1034,Aya,Wahba,Nasr City,9187,502,2024-08-11,,Adventure,2018.0
+1034,Aya,Wahba,Nasr City,9140,513,2025-03-06,2025-04-02,Science,2021.0
+1034,Aya,Wahba,Nasr City,9186,516,2025-07-17,2025-08-03,Nature,2010.0
+1034,Aya,Wahba,Nasr City,9163,531,2025-12-28,2026-01-02,Friendship,2018.0
+1034,Aya,Wahba,Nasr City,9120,526,2025-06-06,2025-06-26,Science Fiction,2016.0
+1034,Aya,Wahba,Nasr City,9193,519,2024-09-15,2024-10-01,Friendship,2014.0
+1034,Aya,Wahba,Nasr City,9115,502,2025-12-16,2026-01-15,Adventure,2018.0
+1034,Aya,Wahba,Nasr City,9375,525,2025-10-27,2025-11-15,Adventure,2015.0
+1034,Aya,Wahba,Nasr City,9114,516,2025-03-02,2025-03-17,Nature,2010.0
+1034,Aya,Wahba,Nasr City,9126,529,2024-10-22,2024-10-28,Mystery,
+1034,Aya,Wahba,Nasr City,9146,509,2025-02-23,2025-03-14,Mystery,2011.0
+1034,Aya,Wahba,Nasr City,9180,529,2024-07-27,2024-08-02,Mystery,
+1034,Aya,Wahba,Nasr City,9133,519,2025-05-28,2025-06-24,Friendship,2014.0
+1034,Aya,Wahba,Nasr City,9109,512,2024-08-20,2024-09-14,Adventure,2022.0
+1034,Aya,Wahba,Nasr City,9135,506,2025-01-12,2025-01-28,Friendship,
+1034,Aya,Wahba,Nasr City,9377,507,2025-03-25,2025-04-06,Science,2024.0
+1034,Aya,Wahba,Nasr City,9122,525,2025-06-04,2025-06-30,Adventure,2015.0
+1034,Aya,Wahba,Nasr City,9145,501,2025-11-10,2025-12-10,Adventure,2017.0
+1034,Aya,Wahba,Nasr City,9106,501,2025-08-20,2025-08-27,Adventure,2017.0
+1034,Aya,Wahba,Nasr City,9170,522,2025-10-16,2025-10-28,Mystery,2016.0
+1034,Aya,Wahba,Nasr City,9164,507,2024-12-02,2024-12-12,Science,2024.0
+1034,Aya,Wahba,Nasr City,9151,528,2025-04-25,2025-05-16,Nature,2010.0
+1035,Karim,Fahmy,Nasr City,9132,511,2025-02-26,2025-03-13,Historical,2016.0
+1036,Lina,Zaki,Nasr City,9139,521,2024-03-14,2024-03-20,Science,2024.0
+1037,Retaj,Kamel,Nasr City,9182,525,2024-05-19,2024-06-03,Adventure,2015.0
+1037,Retaj,Kamel,Nasr City,9134,516,2025-09-08,2025-09-19,Nature,2010.0
+1039,Nada,Riad,Nasr City,9125,501,2025-06-17,,Adventure,2017.0
+1039,Nada,Riad,Nasr City,9138,516,2025-08-22,2025-08-31,Nature,2010.0
+1040,Dina,Adel,Nasr City,9161,519,2025-10-11,2025-11-01,Friendship,2014.0
+1040,Dina,Adel,Nasr City,9158,513,2025-03-07,2025-03-24,Science,2021.0
+1041,Nada,Rashad,Nasr City,9137,519,2025-07-27,2025-08-05,Friendship,2014.0
+1041,Nada,Rashad,Nasr City,9181,509,2025-03-24,,Mystery,2011.0
+1044,Sherif,Saleh,Heliopolis,9208,525,2024-07-10,2024-08-01,Adventure,2015.0
+1044,Sherif,Saleh,Heliopolis,9272,518,2025-01-24,2025-02-04,Adventure,2011.0
+1044,Sherif,Saleh,Heliopolis,9218,532,2025-04-23,2025-05-04,Friendship,2017.0
+1044,Sherif,Saleh,Heliopolis,9211,507,2025-04-28,2025-05-25,Science,2024.0
+1044,Sherif,Saleh,Heliopolis,9255,509,2025-05-24,2025-06-13,Mystery,2011.0
+1044,Sherif,Saleh,Heliopolis,9271,513,2025-04-26,2025-05-06,Science,2021.0
+1044,Sherif,Saleh,Heliopolis,9247,510,2025-02-01,2025-02-23,Mystery,2013.0
+1044,Sherif,Saleh,Heliopolis,9228,516,2024-12-05,2024-12-26,Nature,2010.0
+1044,Sherif,Saleh,Heliopolis,9207,527,2025-10-20,2025-11-04,Nature,2017.0
+1044,Sherif,Saleh,Heliopolis,9250,507,2025-08-05,2025-08-23,Science,2024.0
+1044,Sherif,Saleh,Heliopolis,9260,518,2025-07-03,2025-07-27,Adventure,2011.0
+1044,Sherif,Saleh,Heliopolis,9245,519,2024-12-13,2024-12-21,Friendship,2014.0
+1044,Sherif,Saleh,Heliopolis,9215,507,2024-02-07,,Science,2024.0
+1044,Sherif,Saleh,Heliopolis,9212,512,2024-09-14,,Adventure,2022.0
+1044,Sherif,Saleh,Heliopolis,9226,519,2025-03-18,,Friendship,2014.0
+1044,Sherif,Saleh,Heliopolis,9246,529,2025-06-25,2025-07-04,Mystery,
+1044,Sherif,Saleh,Heliopolis,9210,507,2025-09-11,2025-09-29,Science,2024.0
+1044,Sherif,Saleh,Heliopolis,9248,514,2025-07-01,2025-07-18,Science Fiction,2023.0
+1044,Sherif,Saleh,Heliopolis,9281,525,2024-06-01,2024-06-12,Adventure,2015.0
+1044,Sherif,Saleh,Heliopolis,9232,513,2025-05-26,2025-06-11,Science,2021.0
+1046,Amir,Fouad,HELIOPOLIS,9251,507,2024-06-09,,Science,2024.0
+1047,Sara,Rashad,Heliopolis,9263,517,2024-10-21,2024-11-07,Mystery,2015.0
+1047,Sara,Rashad,Heliopolis,9257,501,2024-10-18,2024-11-16,Adventure,2017.0
+1047,Sara,Rashad,Heliopolis,9261,509,2025-09-02,2025-09-18,Mystery,2011.0
+1047,Sara,Rashad,Heliopolis,9267,530,2024-12-05,2024-12-20,Adventure,2012.0
+1047,Sara,Rashad,Heliopolis,9273,510,2024-12-07,2025-01-05,Mystery,2013.0
+1047,Sara,Rashad,Heliopolis,9235,516,2024-02-16,,Nature,2010.0
+1047,Sara,Rashad,Heliopolis,9220,507,2025-08-04,,Science,2024.0
+1047,Sara,Rashad,Heliopolis,9217,530,2024-04-07,,Adventure,2012.0
+1047,Sara,Rashad,Heliopolis,9275,507,2025-09-21,2025-10-08,Science,2024.0
+1047,Sara,Rashad,Heliopolis,9268,503,2025-06-16,2025-07-14,Historical,
+1047,Sara,Rashad,Heliopolis,9278,506,2024-03-12,2024-04-02,Friendship,
+1047,Sara,Rashad,Heliopolis,9229,501,2025-11-16,2025-12-08,Adventure,2017.0
+1047,Sara,Rashad,Heliopolis,9279,514,2025-07-06,2025-07-28,Science Fiction,2023.0
+1047,Sara,Rashad,Heliopolis,9242,520,2025-06-01,2025-07-01,Science Fiction,2009.0
+1047,Sara,Rashad,Heliopolis,9219,506,2025-05-13,2025-06-07,Friendship,
+1047,Sara,Rashad,Heliopolis,9202,506,2025-06-05,2025-07-03,Friendship,
+1049,Ahmed,Gamal,Heliopolis,9265,513,2024-08-12,2024-09-10,Science,2021.0
+1050,Fares,Adel,Heliopolis,9206,519,2024-03-17,,Friendship,2014.0
+1050,Fares,Adel,Heliopolis,9222,505,2024-01-09,2024-02-01,Historical,2024.0
+1050,Fares,Adel,Heliopolis,9213,501,2024-05-07,2024-05-14,Adventure,2017.0
+1050,Fares,Adel,Heliopolis,9240,525,2025-07-25,2025-08-24,Adventure,2015.0
+1050,Fares,Adel,Heliopolis,9216,519,2024-08-07,,Friendship,2014.0
+1050,Fares,Adel,Heliopolis,9276,514,2025-06-28,2025-07-08,Science Fiction,2023.0
+1050,Fares,Adel,Heliopolis,9230,501,2025-09-10,2025-10-07,Adventure,2017.0
+1050,Fares,Adel,Heliopolis,9258,529,2025-12-07,2025-12-21,Mystery,
+1050,Fares,Adel,Heliopolis,9244,507,2025-04-23,2025-05-06,Science,2024.0
+1050,Fares,Adel,Heliopolis,9239,519,2025-02-10,2025-02-22,Friendship,2014.0
+1050,Fares,Adel,Heliopolis,9223,510,2024-04-11,2024-05-04,Mystery,2013.0
+1052,Retaj,Adel,Heliopolis,9236,507,2024-09-02,2024-09-29,Science,2024.0
+1053,Adam,Shafik,Heliopolis,9231,523,2024-02-04,2024-02-16,Historical,2018.0
+1053,Adam,Shafik,Heliopolis,9234,525,2024-02-13,2024-03-06,Adventure,2015.0
+1053,Adam,Shafik,Heliopolis,9205,525,2024-12-02,2024-12-14,Adventure,2015.0
+1053,Adam,Shafik,Heliopolis,9266,519,2024-06-01,2024-06-15,Friendship,2014.0
+1053,Adam,Shafik,Heliopolis,9199,518,2024-11-28,2024-12-08,Adventure,2011.0
+1054,Retaj,Fahmy,Heliopolis,9269,507,2025-01-26,2025-01-31,Science,2024.0
+1054,Retaj,Fahmy,Heliopolis,9280,517,2024-09-06,2024-09-15,Mystery,2015.0
+1054,Retaj,Fahmy,Heliopolis,9274,522,2024-09-06,2024-09-17,Mystery,2016.0
+1054,Retaj,Fahmy,Heliopolis,9262,524,2024-02-25,2024-03-22,Historical,2016.0
+1054,Retaj,Fahmy,Heliopolis,9252,513,2024-08-04,2024-08-09,Science,2021.0
+1055,Mostafa,Kamel,Heliopolis,9201,531,2025-11-24,2025-12-16,Friendship,2018.0
+1055,Mostafa,Kamel,Heliopolis,9221,520,2025-04-12,2025-04-18,Science Fiction,2009.0
+1057,Ahmed,Fahmy,Heliopolis,9238,513,2024-03-28,2024-04-08,Science,2021.0
+1057,Ahmed,Fahmy,Heliopolis,9249,519,2024-10-17,2024-11-03,Friendship,2014.0
+1057,Ahmed,Fahmy,Heliopolis,9237,513,2024-02-22,,Science,2021.0
+1057,Ahmed,Fahmy,Heliopolis,9259,501,2025-11-16,2025-11-30,Adventure,2017.0
+1057,Ahmed,Fahmy,Heliopolis,9270,517,2024-12-08,2024-12-30,Mystery,2015.0
+1057,Ahmed,Fahmy,Heliopolis,9224,513,2025-05-25,,Science,2021.0
+1057,Ahmed,Fahmy,Heliopolis,9203,501,2025-10-25,,Adventure,2017.0
+1057,Ahmed,Fahmy,Heliopolis,9204,506,2024-02-20,2024-03-15,Friendship,
+1057,Ahmed,Fahmy,Heliopolis,9282,530,2025-07-22,2025-08-18,Adventure,2012.0
+1057,Ahmed,Fahmy,Heliopolis,9277,519,2025-10-19,2025-10-28,Friendship,2014.0
+1058,Lina,Mansour,Heliopolis,9209,525,2024-11-22,2024-12-12,Adventure,2015.0
+1058,Lina,Mansour,Heliopolis,9214,525,2024-09-24,,Adventure,2015.0
+1058,Lina,Mansour,Heliopolis,9253,507,2025-06-15,2025-07-10,Science,2024.0
+1059,Lina,Halim,Heliopolis,9225,516,2025-08-06,2025-08-22,Nature,2010.0
+1059,Lina,Halim,Heliopolis,9256,521,2025-07-09,,Science,2024.0
+1059,Lina,Halim,Heliopolis,9241,519,2025-01-04,2025-01-11,Friendship,2014.0
+1059,Lina,Halim,Heliopolis,9227,513,2024-11-02,2024-11-20,Science,2021.0
+1059,Lina,Halim,Heliopolis,9264,507,2025-02-01,2025-02-13,Science,2024.0
+1059,Lina,Halim,Heliopolis,9254,501,2025-10-23,2025-11-07,Adventure,2017.0
+1059,Lina,Halim,Heliopolis,9233,512,2024-12-08,2024-12-15,Adventure,2022.0
+1060,Layla,Wahba,Heliopolis,9200,509,2024-12-08,,Mystery,2011.0
+1060,Layla,Wahba,Heliopolis,9243,513,2025-09-13,2025-10-09,Science,2021.0
+1061,Ziad,Fahmy,zamalek,9302,507,2024-06-22,,Science,2024.0
+1061,Ziad,Fahmy,zamalek,9322,510,2025-10-20,2025-11-15,Mystery,2013.0
+1061,Ziad,Fahmy,zamalek,9317,507,2024-01-26,2024-02-09,Science,2024.0
+1061,Ziad,Fahmy,zamalek,9324,529,2025-03-12,2025-04-10,Mystery,
+1061,Ziad,Fahmy,zamalek,9303,509,2025-12-23,2026-01-10,Mystery,2011.0
+1061,Ziad,Fahmy,zamalek,9336,528,2024-04-18,2024-05-15,Nature,2010.0
+1061,Ziad,Fahmy,zamalek,9295,513,2025-12-12,2026-01-01,Science,2021.0
+1061,Ziad,Fahmy,zamalek,9300,528,2024-08-15,2024-09-02,Nature,2010.0
+1062,Tarek,Adel,Zamalek,9326,501,2024-08-15,2024-08-21,Adventure,2017.0
+1062,Tarek,Adel,Zamalek,9332,522,2024-07-03,,Mystery,2016.0
+1062,Tarek,Adel,Zamalek,9301,519,2024-11-10,2024-11-23,Friendship,2014.0
+1062,Tarek,Adel,Zamalek,9379,501,2024-12-18,2024-12-26,Adventure,2017.0
+1062,Tarek,Adel,Zamalek,9329,513,2025-03-06,,Science,2021.0
+1062,Tarek,Adel,Zamalek,9284,513,2025-09-27,2025-10-26,Science,2021.0
+1062,Tarek,Adel,Zamalek,9305,519,2024-01-23,2024-01-31,Friendship,2014.0
+1065,Adam,Fahmy,Zamalek,9319,515,2025-02-10,2025-02-21,Poetry,2022.0
+1065,Adam,Fahmy,Zamalek,9291,526,2024-03-25,2024-03-31,Science Fiction,2016.0
+1065,Adam,Fahmy,Zamalek,9288,519,2025-03-20,2025-03-31,Friendship,2014.0
+1065,Adam,Fahmy,Zamalek,9316,513,2024-08-25,2024-09-17,Science,2021.0
+1065,Adam,Fahmy,Zamalek,9296,501,2024-12-15,2025-01-11,Adventure,2017.0
+1065,Adam,Fahmy,Zamalek,9341,516,2025-02-19,2025-03-09,Nature,2010.0
+1065,Adam,Fahmy,Zamalek,9331,525,2025-02-17,2025-02-23,Adventure,2015.0
+1065,Adam,Fahmy,Zamalek,9290,519,2025-10-09,,Friendship,2014.0
+1065,Adam,Fahmy,Zamalek,9297,501,2025-04-14,,Adventure,2017.0
+1065,Adam,Fahmy,Zamalek,9298,507,2025-06-18,2025-07-11,Science,2024.0
+1065,Adam,Fahmy,Zamalek,9287,532,2024-04-26,2024-05-23,Friendship,2017.0
+1065,Adam,Fahmy,Zamalek,9327,513,2025-03-09,2025-04-01,Science,2021.0
+1065,Adam,Fahmy,Zamalek,9334,507,2025-12-20,2026-01-05,Science,2024.0
+1065,Adam,Fahmy,Zamalek,9311,507,2025-06-26,2025-07-09,Science,2024.0
+1065,Adam,Fahmy,Zamalek,9335,513,2024-12-18,2024-12-30,Science,2021.0
+1067,Aya,Ibrahim,Zamalek,9318,513,2025-07-23,2025-08-17,Science,2021.0
+1067,Aya,Ibrahim,Zamalek,9294,507,2024-11-26,,Science,2024.0
+1067,Aya,Ibrahim,Zamalek,9310,511,2024-02-04,2024-02-12,Historical,2016.0
+1068,Layla,Hegazy,Zamalek,9342,501,2025-05-28,2025-06-27,Adventure,2017.0
+1068,Layla,Hegazy,Zamalek,9304,519,2024-04-16,2024-05-09,Friendship,2014.0
+1068,Layla,Hegazy,Zamalek,9313,507,2024-12-13,2024-12-19,Science,2024.0
+1068,Layla,Hegazy,Zamalek,9309,511,2024-11-24,2024-12-12,Historical,2016.0
+1068,Layla,Hegazy,Zamalek,9312,506,2025-12-01,,Friendship,
+1068,Layla,Hegazy,Zamalek,9315,501,2024-06-11,2024-07-04,Adventure,2017.0
+1070,Ahmed,Zaki,Zamalek,9383,501,2024-07-11,2024-07-31,Adventure,2017.0
+1070,Ahmed,Zaki,Zamalek,9328,501,2024-01-28,,Adventure,2017.0
+1070,Ahmed,Zaki,Zamalek,9321,501,2025-12-28,2026-01-09,Adventure,2017.0
+1071,Jana,Hegazy,Zamalek,9285,513,2025-02-24,,Science,2021.0
+1071,Jana,Hegazy,Zamalek,9293,525,2025-08-05,2025-08-18,Adventure,2015.0
+1072,Seif,Zaki,Zamalek,9340,513,2025-08-24,2025-09-01,Science,2021.0
+1072,Seif,Zaki,Zamalek,9283,513,2025-09-17,2025-09-25,Science,2021.0
+1072,Seif,Zaki,Zamalek,9333,520,2025-06-03,2025-06-08,Science Fiction,2009.0
+1072,Seif,Zaki,Zamalek,9323,519,2024-01-23,2024-01-28,Friendship,2014.0
+1072,Seif,Zaki,Zamalek,9337,529,2024-11-13,,Mystery,
+1072,Seif,Zaki,Zamalek,9286,507,2024-08-09,2024-08-16,Science,2024.0
+1072,Seif,Zaki,Zamalek,9338,501,2024-07-16,,Adventure,2017.0
+1072,Seif,Zaki,Zamalek,9307,501,2025-06-10,2025-07-09,Adventure,2017.0
+1072,Seif,Zaki,Zamalek,9330,513,2025-04-11,2025-05-09,Science,2021.0
+1072,Seif,Zaki,Zamalek,9325,519,2024-01-11,,Friendship,2014.0
+1072,Seif,Zaki,Zamalek,9314,522,2024-08-13,2024-09-02,Mystery,2016.0
+1072,Seif,Zaki,Zamalek,9299,521,2024-01-04,2024-01-23,Science,2024.0
+1072,Seif,Zaki,Zamalek,9289,522,2025-09-09,2025-09-19,Mystery,2016.0
+1072,Seif,Zaki,Zamalek,9308,525,2024-02-17,2024-03-12,Adventure,2015.0
+1073,Yassin,Kamel,Zamalek,9320,501,2025-07-19,2025-08-13,Adventure,2017.0
+1073,Yassin,Kamel,Zamalek,9339,501,2025-02-02,,Adventure,2017.0
+1074,Mostafa,Saleh,Zamalek,9292,525,2024-12-28,2025-01-06,Adventure,2015.0
+1074,Mostafa,Saleh,Zamalek,9306,510,2024-08-03,2024-08-10,Mystery,2013.0
+1075,Malak,Fahmy,Shubra,9355,515,2024-11-10,2024-12-02,Poetry,2022.0
+1075,Malak,Fahmy,Shubra,9348,532,2024-07-28,2024-08-25,Friendship,2017.0
+1075,Malak,Fahmy,Shubra,9365,501,2024-01-17,2024-02-01,Adventure,2017.0
+1075,Malak,Fahmy,Shubra,9343,529,2024-10-04,2024-10-14,Mystery,
+1075,Malak,Fahmy,Shubra,9347,519,2025-07-17,2025-07-31,Friendship,2014.0
+1075,Malak,Fahmy,Shubra,9345,507,2025-02-03,2025-03-01,Science,2024.0
+1075,Malak,Fahmy,Shubra,9353,528,2025-12-13,2025-12-30,Nature,2010.0
+1075,Malak,Fahmy,Shubra,9351,514,2024-01-03,2024-01-28,Science Fiction,2023.0
+1075,Malak,Fahmy,Shubra,9361,524,2024-04-19,,Historical,2016.0
+1076,Dina,Wahba,Shubra,9369,501,2025-06-05,,Adventure,2017.0
+1076,Dina,Wahba,Shubra,9372,519,2025-03-06,2025-04-02,Friendship,2014.0
+1076,Dina,Wahba,Shubra,9344,507,2024-09-12,,Science,2024.0
+1076,Dina,Wahba,Shubra,9382,507,2025-02-26,2025-03-08,Science,2024.0
+1076,Dina,Wahba,Shubra,9356,501,2025-03-14,2025-04-13,Adventure,2017.0
+1076,Dina,Wahba,Shubra,9346,519,2024-04-27,,Friendship,2014.0
+1076,Dina,Wahba,Shubra,9352,501,2025-02-02,,Adventure,2017.0
+1077,Lina,Rashad,Shubra,9360,520,2024-03-04,2024-03-16,Science Fiction,2009.0
+1077,Lina,Rashad,Shubra,9357,516,2024-07-26,2024-08-15,Nature,2010.0
+1077,Lina,Rashad,Shubra,9358,513,2025-07-09,2025-07-24,Science,2021.0
+1077,Lina,Rashad,Shubra,9349,501,2024-03-04,2024-04-02,Adventure,2017.0
+1077,Lina,Rashad,Shubra,9364,513,2024-08-18,2024-09-07,Science,2021.0
+1077,Lina,Rashad,Shubra,9359,501,2025-01-26,,Adventure,2017.0
+1079,Rana,Osman,Shubra,9370,511,2025-11-11,2025-12-03,Historical,2016.0
+1079,Rana,Osman,Shubra,9366,503,2024-06-23,2024-07-23,Historical,
+1079,Rana,Osman,Shubra,9371,528,2025-04-22,2025-05-02,Nature,2010.0
+1079,Rana,Osman,Shubra,9354,502,2024-03-09,2024-03-18,Adventure,2018.0
+1079,Rana,Osman,Shubra,9362,507,2024-03-08,2024-04-07,Science,2024.0
+1079,Rana,Osman,Shubra,9363,507,2024-12-23,2025-01-15,Science,2024.0
+1079,Rana,Osman,Shubra,9368,525,2025-02-12,2025-03-10,Adventure,2015.0
+1079,Rana,Osman,Shubra,9381,507,2025-05-30,2025-06-18,Science,2024.0
+1079,Rana,Osman,Shubra,9367,507,2024-03-19,2024-03-28,Science,2024.0
+1079,Rana,Osman,Shubra,9373,508,2024-03-20,2024-04-19,Science,2011.0
+1080,Bassel,Wahba,Shubra,9350,501,2025-06-22,2025-07-17,Adventure,2017.0
+1080,Bassel,Wahba,Shubra,9374,505,2024-08-05,2024-08-12,Historical,2024.0
+1026,,,,,522,2025-07-11,,,
+1049,,,,,520,2025-07-11,,,
+1062,,,,,525,2025-07-05,,,
+1065,,,,,520,2025-07-07,,,
+1104,,,,,515,2025-07-07,,,
+1009,,,,,503,2025-07-09,,,
+1063,,,,,522,2025-07-07,,,
+1022,,,,,511,2025-07-12,,,
+1029,,,,,523,2025-07-09,,,
+1201,,,,,509,2025-07-10,,,
+1005,,,,,513,2025-07-10,,,
+1104,,,,,526,2025-07-05,,,
+1058,,,,,518,2025-07-08,,,
+1002,,,,,521,2025-07-08,,,
+1150,,,,,530,2025-07-10,,,
+1041,,,,,504,2025-07-05,,,
+1055,,,,,526,2025-07-11,,,
+1061,,,,,513,2025-07-06,,,
+1012,,,,,509,2025-07-11,,,
+1007,,,,,510,2025-07-07,,,
+1073,,,,,530,2025-07-07,,,
+1003,,,,,501,2025-07-08,,,
+1017,,,,,507,2025-07-11,,,
+1061,,,,,504,2025-07-06,,,
+1201,,,,,523,2025-07-08,,,
+1041,,,,,512,2025-07-06,,,

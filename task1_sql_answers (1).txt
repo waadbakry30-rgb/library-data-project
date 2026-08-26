@@ -1,0 +1,28 @@
+
+Task 1: SQL Answers
+
+Question 1: Checkouts for Each Member
+The query counts the number of checkouts for every library member, including members with zero checkouts.
+
+Question 2: Books by Authors Matching Darwish
+The query searches for books where the author's name contains "Darwish".
+The results were:
+- Poetry by Darwish — Mahmoud Darwish
+- The Silver Kite — Amina Darwish
+- Desert Compass — Amina Darwish
+
+Question 3: Top 5 Most Popular Books
+The five most popular books by checkout count were:
+1. The Silver Kite — 57 checkouts
+2. Fossils and Fireflies — 55 checkouts
+3. Circuits for Beginners — 46 checkouts
+4. Kites Over Cairo — 38 checkouts
+5. Storms and Sailboats — 25 checkouts
+
+Question 4: Top 10 Active Readers
+The query identifies the ten members with the highest number of checkouts.
+The most active reader was Aya Wahba with 25 checkouts, followed by Sherif Saleh with 21 checkouts.
+
+Question 5: Maadi Activity Excluding the 10 Newest Checkouts
+The query shows checkout activity for members from Maadi while excluding the ten newest checkouts.
+The query returned 104 records.
